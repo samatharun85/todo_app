@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samatharun85/Todo_list/static/css/main.7a5f561b.css",
+    "main.js": "/samatharun85/Todo_list/static/js/main.36ddfb22.js",
+    "index.html": "/samatharun85/Todo_list/index.html",
+    "main.7a5f561b.css.map": "/samatharun85/Todo_list/static/css/main.7a5f561b.css.map",
+    "main.36ddfb22.js.map": "/samatharun85/Todo_list/static/js/main.36ddfb22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5f561b.css",
+    "static/js/main.36ddfb22.js"
+  ]
+}
